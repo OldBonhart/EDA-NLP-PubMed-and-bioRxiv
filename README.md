@@ -11,7 +11,7 @@ Pubmed
 bioRxiv
 + https://www.biorxiv.org/search/connectome%20numresults%3A75%20sort%3Arelevance-rank?page="
 
-Expected Output - images with visualization and scraped data recorded in [**PDF format**]().
+Expected Output - images with visualization and scraped data recorded in [**PDF format**](https://www.ncbi.nlm.nih.gov/pubmed/?term=connectome).
 ## Quick start
 [demo.ipynb](https://github.com/OldBonhart/EDA-NLP-PubMed-and-bioRxiv/blob/master/demo.ipynb)[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1LTd4JT2TzLOM0pbgSXhhk6sQUUyM7vwf#scrollTo=0yAq9xteMY2l)<br>
 [EDA-NLP-PubMed-and-bioRxiv.ipynb](https://github.com/OldBonhart/EDA-NLP-PubMed-and-bioRxiv/blob/master/EDA_NLP_bioRxiv_and_PubMed.ipynb)[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1LTd4JT2TzLOM0pbgSXhhk6sQUUyM7vwf#scrollTo=0yAq9xteMY2l)<br>
