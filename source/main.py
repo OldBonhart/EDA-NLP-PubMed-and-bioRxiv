@@ -1,7 +1,7 @@
-from words_cloud import *
-from w2v_tsne import *
-from data_ploting import *
-from get_pdf import *
+from .words_cloud import *
+from .w2v_tsne import *
+from .data_ploting import *
+from .get_pdf import *
 
 import nltk
 from nltk.corpus import stopwords
