@@ -15,7 +15,7 @@ Expected Output - images with visualization and scraped data recorded in [**PDF 
 ## Quick start
 [demo.ipynb](https://github.com/OldBonhart/EDA-NLP-PubMed-and-bioRxiv/blob/master/demo.ipynb)[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1DcpwqJVSZ8xVWM3RaVYmW_ramRl5zxq0)<br>
 [EDA-NLP-PubMed-and-bioRxiv.ipynb](https://github.com/OldBonhart/EDA-NLP-PubMed-and-bioRxiv/blob/master/EDA_NLP_bioRxiv_and_PubMed.ipynb)[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1kqvGYRZZimVV4DtI-2TIbQp3NyOkqtaI)<br>
-#### [How to use]()
+#### [How to use](https://www.youtube.com/watch?v=WkSMRAP3hsI)
 
 
 # Examples
